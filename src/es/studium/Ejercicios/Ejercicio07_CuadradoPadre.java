@@ -25,7 +25,7 @@ public class Ejercicio07_CuadradoPadre
 		// Ruta y argumentos para lanzar aplicación hija
 		String arg1 = "java";
 		String arg2 = "-jar";
-		String arg3 = ".\\src\\es\\studium\\Ejercicios\\Cuadrado.jar";
+		String arg3 = ".\\src\\es\\studium\\Ejercicios\\CuadradoHijo.jar";
 		String[] param = { arg1, arg2, arg3 };
 		// Aquí exactamente enviamos el texto leído en esta clase a la hija
 		String cadena;
